@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-namespace ConsoleApp3_CKAM
+namespace ConsoleApp3_CS
 {
     public class tasks2
     {
