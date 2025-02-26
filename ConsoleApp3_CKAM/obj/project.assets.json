@@ -148,11 +148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/egor/Рабочий стол/DEV/2kurs/C#/Rider/Project_one/ConsoleApp3/ConsoleApp3_CS/ConsoleApp3_CS.csproj",
-      "projectName": "ConsoleApp3_CS",
-      "projectPath": "/home/egor/Рабочий стол/DEV/2kurs/C#/Rider/Project_one/ConsoleApp3/ConsoleApp3_CS/ConsoleApp3_CS.csproj",
+      "projectUniqueName": "/home/egor/Рабочий стол/DEV/2kurs/C#/Rider/Project_one/ConsoleApp3/ConsoleApp3_CKAM/ConsoleApp3_CKAM.csproj",
+      "projectName": "ConsoleApp3_CKAM",
+      "projectPath": "/home/egor/Рабочий стол/DEV/2kurs/C#/Rider/Project_one/ConsoleApp3/ConsoleApp3_CKAM/ConsoleApp3_CKAM.csproj",
       "packagesPath": "/home/egor/.nuget/packages/",
-      "outputPath": "/home/egor/Рабочий стол/DEV/2kurs/C#/Rider/Project_one/ConsoleApp3/ConsoleApp3_CS/obj/",
+      "outputPath": "/home/egor/Рабочий стол/DEV/2kurs/C#/Rider/Project_one/ConsoleApp3/ConsoleApp3_CKAM/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/egor/.nuget/NuGet/NuGet.Config"

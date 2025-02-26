@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RwSjXkWWuvk=",
+  "dgSpecHash": "RwcVHYsNX7s=",
   "success": true,
-  "projectFilePath": "/home/egor/Рабочий стол/DEV/2kurs/C#/Rider/Project_one/ConsoleApp3/ConsoleApp3_CS/ConsoleApp3_CS.csproj",
+  "projectFilePath": "/home/egor/Рабочий стол/DEV/2kurs/C#/Rider/Project_one/ConsoleApp3/ConsoleApp3_CKAM/ConsoleApp3_CKAM.csproj",
   "expectedPackageFiles": [
     "/home/egor/.nuget/packages/quickgraph/3.6.61119.7/quickgraph.3.6.61119.7.nupkg.sha512",
     "/home/egor/.nuget/packages/quikgraph/2.5.0/quikgraph.2.5.0.nupkg.sha512",

@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace ConsoleApp3_CS
+namespace ConsoleApp3_CKAM
 {
     public class tasks1
     {

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3_CS", "ConsoleApp3_CS\ConsoleApp3_CS.csproj", "{FE4A0219-B436-4249-9DFF-8C8C64C0FA14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3_CKAM", "ConsoleApp3_CKAM\ConsoleApp3_CKAM.csproj", "{FE4A0219-B436-4249-9DFF-8C8C64C0FA14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
