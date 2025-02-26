@@ -3,7 +3,7 @@ using QuickGraph;
 using QuickGraph.Graphviz;
 using QuickGraph.Graphviz.Dot;
 
-namespace ConsoleApp3_CKAM
+namespace ConsoleApp3_CS
 {
     class Program
     {
