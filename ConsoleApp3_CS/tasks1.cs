@@ -147,7 +147,7 @@ namespace ConsoleApp3_CS
 
         static string GeneratePlantUmlCode(int n, List<(int, int, int)> edges)
         {
-            var code = new List<string> { "@startuml", "graph \"Неориентированный граф\" {" };
+            var code = new List<string> { "@startuml", "" };
 
             for (int i = 0; i < n; i++)
             {
