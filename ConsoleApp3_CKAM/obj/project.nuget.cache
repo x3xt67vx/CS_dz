@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "RwcVHYsNX7s=",
+  "success": true,
+  "projectFilePath": "/home/egor/Рабочий стол/DEV/2kurs/C#/Rider/Project_one/ConsoleApp3/ConsoleApp3_CKAM/ConsoleApp3_CKAM.csproj",
+  "expectedPackageFiles": [
+    "/home/egor/.nuget/packages/quickgraph/3.6.61119.7/quickgraph.3.6.61119.7.nupkg.sha512",
+    "/home/egor/.nuget/packages/quikgraph/2.5.0/quikgraph.2.5.0.nupkg.sha512",
+    "/home/egor/.nuget/packages/quikgraph.graphviz/2.5.0/quikgraph.graphviz.2.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'QuickGraph 3.6.61119.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "libraryId": "QuickGraph",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
